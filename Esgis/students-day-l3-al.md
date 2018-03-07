@@ -10,13 +10,9 @@ Prenom :
 Compte Github :
 
 ## Groupe 2
-Nom :
-Prenom :
-Compte Github :
----
-Nom :
-Prenom :
-Compte Github :
+Nom : Chanou
+Prenom : As-and
+Compte Github : https://github.com/asand04
 
 ## Groupe 3
 Nom :
