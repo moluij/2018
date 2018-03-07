@@ -5,9 +5,9 @@ Nom :
 Prenom :
 Compte Github :
 ---
-Nom :
-Prenom :
-Compte Github :
+Nom : DAA-KPODE
+Prenom : Elvys Dona
+Compte Github : https://github.com/elvys675
 
 ## Groupe 2
 Nom : Chanou
